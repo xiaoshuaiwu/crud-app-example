@@ -1,0 +1,36 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "新CIA图",
+        "diagramType": "CIA",
+        "placeholder": "新CIA图描述",
+        "thumbnail": "./public/content/images/thumbnail.cia.jpg",
+        "version": "2.4.1",
+        "cells": []
+      },
+      {
+        "id": 2,
+        "title": "stride",
+        "diagramType": "STRIDE",
+        "placeholder": "新STRIDE图描述",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.1",
+        "cells": [],
+        "description": "sstride"
+      }
+    ],
+    "diagramTop": 4,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
